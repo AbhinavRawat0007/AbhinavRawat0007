@@ -74,23 +74,6 @@ A complete e-commerce project focused on building a practical online shopping ex
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRawat0007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRawat0007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhinavRawat0007&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 What I'm Working Towards
 
 I'm focused on becoming a strong **software engineer** by improving my understanding of:
